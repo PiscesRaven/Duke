@@ -96,7 +96,7 @@ ul.nav{
 	font-weight: 600;
 }
 .navbar-default .navbar-nav>li>a :hover{
-	color: #fff;
+	color: #E0E0E0;
 	border-bottom: 2px solid #008ed6;
 }
 .navbar-default .navbar-nav>li>a.active{
