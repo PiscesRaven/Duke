@@ -95,8 +95,8 @@ ul.nav{
 	margin:0 15px;
 	font-weight: 600;
 }
-.navbar-default .navbar-nav>li>a :hover{
-	color: #E0E0E0;
+.navbar-default .navbar-nav>li>a:hover{
+	color:	#1AFD9C;
 	border-bottom: 2px solid #008ed6;
 }
 .navbar-default .navbar-nav>li>a.active{
